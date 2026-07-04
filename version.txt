@@ -1,1 +1,1 @@
-1.0.0.0|https://github.com/torregrossa7/UnloadingByTorregrossa1/releases/download/v1.0.0.0/Unloading_Setup.exe
+https://github.com/torregrossa7/unloading-updates/releases/download/v1.0.1.0/Unloading_Setup.exe
