@@ -1,1 +1,1 @@
-1.0.3.0|https://github.com/torregrossa7/UnloadingByTorregrossa1/releases/tag/v1.0.3.0/Unloading_Setup.msi
+1.0.4.0|https://github.com/torregrossa7/UnloadingByTorregrossa1/releases/tag/v1.0.4.0/Unloading_Setup.msi
